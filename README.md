@@ -42,11 +42,6 @@ java Main
 ## 🤝 **Contributions**
 Feel free to **fork** and contribute!
 
-💬 **Issues? Suggestions?** Open a ticket 🚀
-
-## 📄 **License**
-MIT License
 
 ---
 
-Let me know if you'd like any modifications! 🎯🔥
