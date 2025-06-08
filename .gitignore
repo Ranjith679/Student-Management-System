@@ -28,4 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-JDBC_connection.java
+.JDBC_connection.java
